@@ -1,6 +1,7 @@
 # ETL Automation for Vehicle Data
 
 Project Description
+
 This Python script automates the ETL process for vehicle data stored in various file formats including CSV, JSON, and XML. The script extracts data from these files, transforms it to ensure data quality and consistency, and loads it into a CSV file for further use.
 
 Key Features
